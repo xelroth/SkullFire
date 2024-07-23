@@ -28,10 +28,11 @@ Then, follow these steps:
 1. Edit the `Link2.cs` file, which is the UI, and enter your own email instead of `user@onionmail.com`. You can also change the text to your liking.
 2. Edit the extension by accessing the `Main.cs` file. On line 133, enter your own email, and on line 135, you can change the extension from `.enc` to any extension you prefer.
 
-### Screenshots
+### Ui
+<img src="/images/ui.png">
 
-![UI Screenshot](images/ui.png "UI Screenshot")
-![Encrypted Files](images/1.png "Encrypted Files")
+### Encrypted Files
+<img src="/images/1.png">
 
 ### Future Updates
 
