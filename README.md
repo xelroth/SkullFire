@@ -30,8 +30,8 @@ Then, follow these steps:
 
 ### Screenshots
 
-![UI Screenshot](images/ui.png)
-![Encrypted Files](images/1.png)
+![UI Screenshot](images/ui.png "UI Screenshot")
+![Encrypted Files](images/1.png "Encrypted Files")
 
 ### Future Updates
 
