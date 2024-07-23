@@ -1,0 +1,11 @@
+L:\SF PROJECT\paytome lisst.rar\bin\Release\net48\SF.exe.config
+L:\SF PROJECT\paytome lisst.rar\bin\Release\net48\SF.exe
+L:\SF PROJECT\paytome lisst.rar\bin\Release\net48\SF.pdb
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\PAYTOME-TUTANOTA.COM.csproj.AssemblyReference.cache
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\PAYTOME-TUTANOTA.COM.csproj.SuggestedBindingRedirects.cache
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\PAYTOME-TUTANOTA.COM.GeneratedMSBuildEditorConfig.editorconfig
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\PAYTOME-TUTANOTA.COM.csproj.CoreCompileInputs.cache
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\SF.exe
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\SF.pdb
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\SF.link2.resources
+L:\SF PROJECT\paytome lisst.rar\obj\Release\net48\PAYTOME-TUTANOTA.COM.csproj.GenerateResource.cache
