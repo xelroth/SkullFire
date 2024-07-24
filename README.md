@@ -37,7 +37,7 @@ Then, follow these steps:
 <img src="/images/1.png">
 
 ### Future Updates
-
+Unfortunately this script doesnt contain a decryptor for restoring the files but will be added in the next updates. if you have programming knowlege you can write one for your self.
 This project will be updated soon with new features, including a decryptor and improved encryption algorithms. Stay tuned for more updates! 📣
 
 ### Disclaimer
