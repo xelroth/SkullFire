@@ -1,6 +1,7 @@
 SkullFire Ransomware Introduction
 =======================
 
+This ransomware was leaked and upgraded by me and will have new updates soon.
 
 Welcome to our ransomware project! 🎉 This project is a demonstration of a ransomware attack, and it is not intended for malicious use. Please use it responsibly and only in a test environment.
 
